@@ -1,0 +1,6 @@
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\bin\Debug\DataTransferLayer.dll
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\bin\Debug\DataTransferLayer.pdb
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\obj\Debug\DataTransferLayer.csprojAssemblyReference.cache
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\obj\Debug\DataTransferLayer.csproj.CoreCompileInputs.cache
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\obj\Debug\DataTransferLayer.dll
+E:\Company_Task\Transaction_InMvcCshrp\DataTransferLayer\obj\Debug\DataTransferLayer.pdb
